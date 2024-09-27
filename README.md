@@ -1,4 +1,6 @@
-# Exercises
-Exercises of the second semester of the bachelors degree.
-I am studying computer engineering in Pasargad Uni.
-Most of the exercises of the this semester are written in C# language.
+# تمرین ها
+یاسمن کوچکی هستم ، دانشجوی ترم دو کارشناسی مهندسی کامپیوتر.
+دانشگاه پاسارگاد شیراز.
+واحد برنامه سازی پیشرفته با استاد علی قاسم زاده.
+تمرین هایی که در اینجا قرار میگیرد بر اساس تمرین های است کلاسی که در طول ترم انجام شده ست.
+غالب برنامه ها با زبان #C نوشته می شوند.
